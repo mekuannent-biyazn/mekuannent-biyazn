@@ -1,12 +1,107 @@
-- 👋 Hi, I’m @mekuannent-biyazn
-- 👀 I’m interested in different projects
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me in web development
-- 😄 Pronouns: mekub
-- ⚡ Fun fact: solving any problems
+<div align="center">
 
-<!---
-mekuannent-biyazn/mekuannent-biyazn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Mekuannent Biyazen Alemayehu
+
+### 🚀 Junior Software Developer | MERN Stack Developer | Backend Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;MERN+Stack+Developer;Backend+API+Engineer;React.js+Developer;Building+Scalable+Web+Systems" />
+
+</div>
+
+---
+
+## 📌 About Me
+
+Computer Science student at **Debre Tabor University (2026)** focused on building **secure, scalable, and real-world web applications** using modern technologies.
+
+- 🎓 CGPA: **3.71 / 4.0**
+- 🧠 Exit Exam: **74 / 100**
+- 📍 Addis Ababa, Ethiopia
+- 🔐 Backend, APIs & Authentication systems
+- 🚀 Passionate about production-ready software
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,python,git,github,docker,postman,vscode,tensorflow" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 Real-Time Chat Application
+Socket.io-based messaging system with real-time communication and persistent chat history.
+
+### 🔐 Secure Password Manager
+JWT authentication, OTP verification, encrypted storage, and role-based access control.
+
+### 📊 Student Performance Prediction System
+Machine learning project analyzing social and economic factors using Python & Scikit-learn.
+
+### 🏢 Broker Management System
+Multi-role platform with dashboards, real-time notifications, and commission tracking.
+
+### 📌 Task Management API
+RESTful API with authentication, email notifications, and automated scheduling.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mekuannent-biyazn&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mekuannent-biyazn&theme=tokyonight&hide_border=true" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekuannent-biyazn&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+
+</div>
+
+---
+
+## 📈 Journey
+
+- 🎓 2022 — Started Computer Science Degree  
+- 💻 2023 — Learned Web Development  
+- 🚀 2024 — Built Full-stack MERN applications  
+- 🏢 2025 — Internship at Kachamale Technology  
+- 🏆 2025 — Led Graduation Project  
+- 🎯 2026 — Graduated with 3.71 CGPA  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mekuannent-biyazn">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/mekuannentbiyazn">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:mekuannentbiyazn@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://t.me/mekuannent">
+<img src="https://skillicons.dev/icons?i=telegram" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ “Building secure, scalable, and real-world software systems”
+
+<img src="https://komarev.com/ghpvc/?username=mekuannent-biyazn&color=6C63FF&style=flat" />
+
+</div>

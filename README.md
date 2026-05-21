@@ -25,27 +25,8 @@ Computer Science student at **Debre Tabor University (2026)** focused on buildin
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,python,git,github,docker,postman,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,mongodb,python,git,github,docker,postman,vscode" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 💬 Real-Time Chat Application
-Socket.io-based messaging system with real-time communication and persistent chat history.
-
-### 🔐 Secure Password Manager
-JWT authentication, OTP verification, encrypted storage, and role-based access control.
-
-### 📊 Student Performance Prediction System
-Machine learning project analyzing social and economic factors using Python & Scikit-learn.
-
-### 🏢 Broker Management System
-Multi-role platform with dashboards, real-time notifications, and commission tracking.
-
-### 📌 Task Management API
-RESTful API with authentication, email notifications, and automated scheduling.
 
 ---
 

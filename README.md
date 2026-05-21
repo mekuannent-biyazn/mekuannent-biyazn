@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Mekuannent Biyazen
+# 👋 Hi, 
+# I'm Mekuannent Biyazen
 
 ### 🚀 Junior Software Developer | MERN Stack Developer | Backend Engineer
 

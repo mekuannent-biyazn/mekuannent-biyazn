@@ -84,6 +84,7 @@ Computer Science student at **Debre Tabor University (2026)** focused on buildin
 
 ### ✨ “Building secure, scalable, and real-world software systems”
 
+<a href="https://mekuannentbiyazn.vercel.app/" />
 <img src="https://komarev.com/ghpvc/?username=mekuannent-biyazn&color=6C63FF&style=flat" />
 
 </div>
